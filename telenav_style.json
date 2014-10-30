@@ -429,6 +429,7 @@
         "value": "route",
         "description": "Determine route number and name.",
         "object_types": ["relation"]
-    },
+    }
 
 ]
+}
