@@ -354,7 +354,7 @@
     {
         "key": "type",
         "value": "restriction",
-        "description": "Turn Restriction",
+        "description": "Turn Restriction"
     },
     {
         "key": "lanes",
