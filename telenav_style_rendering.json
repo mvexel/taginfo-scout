@@ -1,0 +1,797 @@
+{
+  "data_format": 1,
+  "data_updated": "20141114T092554+0200",
+  "project": {
+    "name": "Telenav OSM Tags for Rendering",
+    "description": "Tags supported by Telenav for rendering.",
+    "project_url": "http://wiki.openstreetmap.org/wiki/OSM_tags_for_rendering/Telenav",
+    "icon_url": "http://www.telenav.com/include/images/2012/email/corporate/mzl.bqkhuetf.175x175-75.jpg",
+    "contact_name": "Chris Yu",
+    "contact_email": "haifengy@telenav.com"
+  },
+  "tags": [
+    {
+        "key": "railway",
+        "value": "rail",
+        "object_types": ["way"]
+    },
+    {
+        "key": "railway",
+        "value": "light_rail",
+        "object_types": ["way"]
+    },
+    {
+        "key": "railway",
+        "value": "monorail",
+        "object_types": ["way"]
+    },
+    {
+        "key": "railway",
+        "value": "tram",
+        "object_types": ["way"]
+    },
+    {
+        "key": "railway",
+        "value": "subway",
+        "object_types": ["way"]
+    },
+    {
+        "key": "waterway",
+        "value": "river",
+        "object_types": ["way"]
+    },
+    {
+        "key": "waterway",
+        "value": "stream",
+        "object_types": ["way"]
+    },
+    {
+        "key": "waterway",
+        "value": "canal",
+        "object_types": ["way"]
+    },
+    {
+        "key": "route",
+        "value": "ferry",
+        "object_types": ["way"]
+    },
+    {
+        "key": "aeroway",
+        "value": "runway",
+        "object_types": ["way"]
+    },
+    {
+        "key": "aeroway",
+        "value": "taxiway",
+        "object_types": ["way"]
+    },
+    {
+        "key": "admin_level",
+        "value": "2",
+        "object_types": ["area"],
+        "description": "Country - Used with boundary=administrative"
+    },
+    {
+        "key": "admin_level",
+        "value": "4",
+        "object_types": ["area"],
+        "description": "State - Used with boundary=administrative"
+    },
+    {
+        "key": "admin_level",
+        "value": "6",
+        "object_types": ["area"],
+        "description": "County - Used with boundary=administrative"
+    },
+    {
+        "key": "admin_level",
+        "value": "8",
+        "object_types": ["area"],
+        "description": "City - Used with boundary=administrative"
+    },
+    {
+        "key": "waterway",
+        "value": "riverbank",
+        "object_types": ["area"],
+        "description": "For rivers represented as polygons."
+    },
+    {
+        "key": "natural",
+        "value": "water",
+        "object_types": ["area"],
+        "description": "Lake."
+    },
+    {
+        "key": "landuse",
+        "value": "reservoir",
+        "object_types": ["area"]
+    },
+    {
+        "key": "natural",
+        "value": "coastline",
+        "object_types": ["area"]
+    },
+    {
+        "key": "aeroway",
+        "value": "aerodrome",
+        "object_types": ["area"]
+    },
+    {
+        "key": "aeroway",
+        "value": "helipad",
+        "object_types": ["area"]
+    },
+    {
+        "key": "aeroway",
+        "value": "runway",
+        "object_types": ["area"]
+    },
+    {
+        "key": "aeroway",
+        "value": "taxiway",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "parking",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "bank",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "car_rental",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "fuel",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "library",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "theatre",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "community_centre",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "arts_centre",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "university",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "college",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "school",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "kindergarten",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "police",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "fire_station",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "embassy",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "post_office",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "townhall",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "courthouse",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "hospital",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "pub",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "bar",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "cinema",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "nightclub",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "pharmacy",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "restaurant",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "bus_station",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "ferry_terminal",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "place_of_worship",
+        "object_types": ["area"]
+    },
+    {
+        "key": "amenity",
+        "value": "prison",
+        "object_types": ["area"]
+    },
+    {
+        "key": "boundary",
+        "value": "national_park",
+        "object_types": ["area"]
+    },
+    {
+        "key": "building",
+        "value": "yes",
+        "object_types": ["area"]
+    },
+    {
+        "key": "highway",
+        "value": "pedestrian",
+        "object_types": ["area"],
+        "description": "Only when k=area, v=yes exists."
+    },
+    {
+        "key": "historic",
+        "value": "monument",
+        "object_types": ["area"]
+    },
+    {
+        "key": "historic",
+        "value": "memorial",
+        "object_types": ["area"]
+    },
+    {
+        "key": "historic",
+        "value": "castle",
+        "object_types": ["area"]
+    },
+    {
+        "key": "landuse",
+        "value": "cemetery",
+        "object_types": ["area"]
+    },
+    {
+        "key": "landuse",
+        "value": "recreation_ground",
+        "object_types": ["area"]
+    },
+    {
+        "key": "landuse",
+        "value": "residential",
+        "object_types": ["area"]
+    },
+    {
+        "key": "landuse",
+        "value": "forest",
+        "object_types": ["area"]
+    },
+    {
+        "key": "landuse",
+        "value": "military",
+        "object_types": ["area"]
+    },
+    {
+        "key": "leisure",
+        "value": "ice_rink",
+        "object_types": ["area"]
+    },
+    {
+        "key": "leisure",
+        "value": "marina",
+        "object_types": ["area"]
+    },
+    {
+        "key": "leisure",
+        "value": "golf_course",
+        "object_types": ["area"]
+    },
+    {
+        "key": "leisure",
+        "value": "sports_centre",
+        "object_types": ["area"]
+    },
+    {
+        "key": "leisure",
+        "value": "stadium",
+        "object_types": ["area"]
+    },
+    {
+        "key": "leisure",
+        "value": "park",
+        "object_types": ["area"]
+    },
+    {
+        "key": "leisure",
+        "value": "natural_reserve",
+        "object_types": ["area"]
+    },
+    {
+        "key": "man_made",
+        "value": "watermill",
+        "object_types": ["area"]
+    },
+    {
+        "key": "man_made",
+        "value": "windmill",
+        "object_types": ["area"]
+    },
+    {
+        "key": "natural",
+        "value": "beach",
+        "object_types": ["area"]
+    },
+    {
+        "key": "natural",
+        "value": "glacier",
+        "object_types": ["area"]
+    },
+    {
+        "key": "natural",
+        "value": "land",
+        "object_types": ["area"]
+    },
+    {
+        "key": "natural",
+        "value": "wetland",
+        "object_types": ["area"]
+    },
+    {
+        "key": "place",
+        "value": "island",
+        "object_types": ["area"]
+    },
+    {
+        "key": "place",
+        "value": "islet",
+        "object_types": ["area"]
+    },
+    {
+        "key": "rail",
+        "value": "station",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "car",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "car_repair",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "chemist",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "books",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "clothes",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "electronics",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "convenience",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "department_store",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "supermarket",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "hardware",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "furniture",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "stationery",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "mall",
+        "object_types": ["area"]
+    },
+    {
+        "key": "shop",
+        "value": "sports",
+        "object_types": ["area"]
+    },
+    {
+        "key": "sport",
+        "value": "9pin",
+        "object_types": ["area"]
+    },
+    {
+        "key": "sport",
+        "value": "10pin",
+        "object_types": ["area"]
+    },
+    {
+        "key": "sport",
+        "value": "skiing",
+        "object_types": ["area"]
+    },
+    {
+        "key": "tourism",
+        "value": "museum",
+        "object_types": ["area"]
+    },
+    {
+        "key": "tourism",
+        "value": "hotel",
+        "object_types": ["area"]
+    },
+    {
+        "key": "tourism",
+        "value": "hostel",
+        "object_types": ["area"]
+    },
+    {
+        "key": "tourism",
+        "value": "motel",
+        "object_types": ["area"]
+    },
+    {
+        "key": "tourism",
+        "value": "guest_house",
+        "object_types": ["area"]
+    },
+    {
+        "key": "tourism",
+        "value": "theme_park",
+        "object_types": ["area"]
+    },
+    {
+        "key": "tourism",
+        "value": "attraction",
+        "object_types": ["area"]
+    },
+    {
+        "key": "tourism",
+        "value": "information",
+        "object_types": ["area"]
+    },
+    {
+        "key": "tourism",
+        "value": "camp_site",
+        "object_types": ["area"]
+    },
+    {
+        "key": "tourism",
+        "value": "zoo",
+        "object_types": ["area"]
+    },
+    {
+        "key": "building",
+        "value": "commercial",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
+    },
+    {
+        "key": "building",
+        "value": "hotel",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
+    },
+    {
+        "key": "building",
+        "value": "office",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
+    },
+    {
+        "key": "building",
+        "value": "service",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "bridge",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "bunker",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "civic",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "collapsed",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "construction",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "detuched",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "farm",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "farm_auxiliary",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "greenhouse",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "hangar",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "hut",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "public",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "roof",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "shed",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "stable",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "university",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "hospital",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "industrial",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "manufacture",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "warehouse",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "garage",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "garages",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "cathedral",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "chapel",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "church",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "apartments",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "cabin",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "dormitory",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "house",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "residential",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "terrace",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "retail",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "sport",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "stadium",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "train_station",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "value": "transportation",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    },
+    {
+        "key": "building",
+        "object_types": ["area"],
+        "description": "Temporarily disabled."]
+    }
+
+]
+}
