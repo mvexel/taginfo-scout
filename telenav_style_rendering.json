@@ -569,228 +569,228 @@
         "key": "building",
         "value": "service",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "bridge",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "bunker",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "civic",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "collapsed",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "construction",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "detuched",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "farm",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "farm_auxiliary",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "greenhouse",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "hangar",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "hut",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "public",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "roof",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "shed",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "stable",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "university",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "hospital",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "industrial",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "manufacture",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "warehouse",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "garage",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "garages",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "cathedral",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "chapel",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "church",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "apartments",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "cabin",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "dormitory",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "house",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "residential",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "terrace",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "retail",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "sport",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "stadium",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "train_station",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "value": "transportation",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
         "object_types": ["area"],
-        "description": "Temporarily disabled."]
+        "description": "Temporarily disabled."
     }
 
 ]
