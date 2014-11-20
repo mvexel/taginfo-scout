@@ -134,7 +134,8 @@
     {
         "key": "amenity",
         "value": "parking",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
@@ -307,7 +308,8 @@
     {
         "key": "building",
         "value": "yes",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "highway",
