@@ -139,37 +139,44 @@
     {
         "key": "amenity",
         "value": "bank",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "car_rental",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "fuel",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "library",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "theatre",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "community_centre",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "arts_centre",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
@@ -194,32 +201,38 @@
     {
         "key": "amenity",
         "value": "police",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "fire_station",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "embassy",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "post_office",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "townhall",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "courthouse",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
@@ -229,52 +242,62 @@
     {
         "key": "amenity",
         "value": "pub",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "bar",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "cinema",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "nightclub",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "pharmacy",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "restaurant",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "bus_station",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "ferry_terminal",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "place_of_worship",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "amenity",
         "value": "prison",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "boundary",
@@ -290,22 +313,25 @@
         "key": "highway",
         "value": "pedestrian",
         "object_types": ["area"],
-        "description": "Only when k=area, v=yes exists."
+        "description": "Only when k=area, v=yes exists. Temporarily disabled"
     },
     {
         "key": "historic",
         "value": "monument",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "historic",
         "value": "memorial",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "historic",
         "value": "castle",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "landuse",
@@ -315,12 +341,14 @@
     {
         "key": "landuse",
         "value": "recreation_ground",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "landuse",
         "value": "residential",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "landuse",
@@ -335,12 +363,14 @@
     {
         "key": "leisure",
         "value": "ice_rink",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "leisure",
         "value": "marina",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "leisure",
@@ -350,12 +380,14 @@
     {
         "key": "leisure",
         "value": "sports_centre",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "leisure",
         "value": "stadium",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "leisure",
@@ -365,37 +397,44 @@
     {
         "key": "leisure",
         "value": "natural_reserve",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "man_made",
         "value": "watermill",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "man_made",
         "value": "windmill",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "natural",
         "value": "beach",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "natural",
         "value": "glacier",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "natural",
         "value": "land",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "natural",
         "value": "wetland",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "place",
@@ -410,67 +449,80 @@
     {
         "key": "rail",
         "value": "station",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "car",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "car_repair",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "chemist",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "books",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "clothes",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "electronics",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "convenience",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "department_store",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "supermarket",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "hardware",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "furniture",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
         "value": "stationery",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "shop",
@@ -480,12 +532,14 @@
     {
         "key": "shop",
         "value": "sports",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "sport",
         "value": "9pin",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "sport",
@@ -495,32 +549,38 @@
     {
         "key": "sport",
         "value": "skiing",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "tourism",
         "value": "museum",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "tourism",
         "value": "hotel",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "tourism",
         "value": "hostel",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "tourism",
         "value": "motel",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "tourism",
         "value": "guest_house",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "tourism",
@@ -530,22 +590,26 @@
     {
         "key": "tourism",
         "value": "attraction",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "tourism",
         "value": "information",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "tourism",
         "value": "camp_site",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "tourism",
         "value": "zoo",
-        "object_types": ["area"]
+        "object_types": ["area"],
+        "description": "Temporarily disabled."
     },
     {
         "key": "building",
